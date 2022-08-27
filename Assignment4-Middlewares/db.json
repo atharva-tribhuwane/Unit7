@@ -1,0 +1,66 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "Name": "Pirates of the carribean: Stanger tides",
+      "Rating": 4.5,
+      "Description": "this is a dummy description  jwdcjdsnkdncdjaslnvdk ndkj,cms c, sdsnac sam,csa  djsna,sa c ",
+      "Genre": "thriller",
+      "Cast": [
+        "Johnny depp",
+        "someone",
+        "someone 2"
+      ]
+    },
+    {
+      "id": 2,
+      "Name": "Fast and Furious 7",
+      "Rating": 4.3,
+      "Description": "this is a dummy desc for wekdjndljldn enlwekdn efdlendlk qlqfnskdcs ",
+      "Genre": "thriller",
+      "Cast": [
+        "Vin Diesel",
+        "Paul walker",
+        "Michelle rodriguez",
+        "Jason Statham"
+      ]
+    },
+    {
+      "id": 3,
+      "Name": "Random movie",
+      "Rating": 4.5,
+      "Description": "this is a dummy description  jwdcjdsnkdncdjaslnvdk ndkj,cms c, sdsnac sam,csa  djsna,sa c ",
+      "Genre": "thriller",
+      "Cast": [
+        "Johnn depp",
+        "someone",
+        "someone 2"
+      ]
+    },
+    {
+      "id": "something",
+      "Name": "Random movie",
+      "Rating": 4.5,
+      "Description": "this is a dummy description  jwdcjdsnkdncdjaslnvdk ndkj,cms c, sdsnac sam,csa  djsna,sa c ",
+      "Genre": "thriller",
+      "Cast": [
+        "Johnn depp",
+        "someone",
+        "someone 2"
+      ]
+    },
+    {
+      "id": 4,
+      "Name": "Random movie2",
+      "Rating": 4.5,
+      "Description": "this is a dummy description  jwdcjdsnkdncdjaslnvdk ndkj,cms c, sdsnac sam,csa  djsna,sa c ",
+      "Genre": "thriller",
+      "Cast": [
+        "Johnn depp",
+        "someone",
+        "someone 2"
+      ]
+    }
+  ]
+}
+

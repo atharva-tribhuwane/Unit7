@@ -1,0 +1,33 @@
+All users whose gender is male -->   db["eval1collection"].find({gender:"Male"})
+
+
+
+all users whose ID is even --> db["eval1collection"].find({id:{"$mod":[2,0]}})
+
+
+
+Users who currently live in Japan --> db["eval1collection"].find({native:'Japan'})
+
+
+
+Users who are female and live in India -->db["eval1collection"].find({native:'India',gender:'Female'})
+
+
+
+Users who are more than 25 years old --> db["eval1collection"].find({age:{"$gt":25}})
+
+
+
+Users who are less than 50 years old and live in United State--> db["eval1collection"].find({age:{'$lte':50},native:'United States'})
+
+
+
+Total number of users who want to relocate to France (count only) -->db["eval1collection"].find({relocate_to:'France'})
+
+
+
+Total number of users who are from USA and want to relocate to russia, sort them by age in ascending order  --> db["eval1collection"].find({relocate_to:'France'})
+
+
+
+get all users, sort them by total number of family member ASC and age DESC order --> db["eval1collection"].find({relocate_to:'France'})
